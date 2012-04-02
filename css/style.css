@@ -188,6 +188,11 @@ a:hover { color: #FFF; text-decoration: none; }
 		
 		#maincont h1, #maincont h2, #maincont h3, #maincont h4, #maincont h5 { margin: 0 0 15px 0; font-weight: normal; letter-spacing: -1px; }
 		#maincont h1 { font-size: 36px; }
+		#maincont #name {color: #FFF;}
+		
+		#maincont h1 a { color: #FFF;}
+		#maincont h1 a:hover { color: #712067; }
+
 		#maincont h2 { font-size: 34px; }
 		#maincont h3 { font-size: 34px; }
 		#maincont h4 { font-size: 22px; }
@@ -256,6 +261,13 @@ a:hover { color: #FFF; text-decoration: none; }
 		float: right;
 		width: 450px;
 	}
+	
+	#maincont #mainright_project
+	{
+		float: right;
+		width: 600px;
+	}
+	
 	
 #footercont
 {
